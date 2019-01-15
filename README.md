@@ -1,20 +1,3 @@
-# Ember Collection
-
-[![Build Status](https://travis-ci.org/emberjs/ember-collection.svg?branch=master)](https://travis-ci.org/emberjs/ember-collection)
-
-[![Ember Observer Score](http://emberobserver.com/badges/ember-collection.svg)](http://emberobserver.com/addons/ember-collection)
-
-An efficient incremental rendering component with support for custom layouts and large lists.
-
-### Table of Contents
-
-1. [Installation](#installation)
-1. [Usage](#usage)
-1. [Layouts](#layouts)
-1. [Build it](#build-it)
-1. [How it works](#how-it-works)
-1. [Run unit tests](#running-unit-tests)
-
 ## Installation
   
   * `ember install ember-collection`
